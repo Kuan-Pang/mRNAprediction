@@ -74,7 +74,7 @@ Predict the reactivity and degradation probability for each base on the mRNA by 
 
 Competition Homepage: https://www.kaggle.com/c/stanford-covid-vaccine/overview
 
-GRU Baseline Mode: https://www.kaggle.com/c/stanford-covid-vaccine/discussion/182303
+GRU Baseline Model: https://www.kaggle.com/c/stanford-covid-vaccine/discussion/182303
 
 Notebook Framework: https://www.kaggle.com/xhlulu/openvaccine-simple-gru-model?scriptVersionId=43163749
 
