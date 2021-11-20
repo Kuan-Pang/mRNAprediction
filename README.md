@@ -2,6 +2,8 @@
 
 > Repository for my solution to `OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction` challenge by Stanford and  Kaggle.
 
+
+
 Click [here](https://www.kaggle.com/c/stanford-covid-vaccine) for the official website.
 
 ## Goal
@@ -74,7 +76,7 @@ Predict the reactivity and degradation probability for each base on the mRNA by 
 
 Competition Homepage: https://www.kaggle.com/c/stanford-covid-vaccine/overview
 
-GRU Baseline Model: https://www.kaggle.com/c/stanford-covid-vaccine/discussion/182303
+Single GRU Baseline Model: https://www.kaggle.com/c/stanford-covid-vaccine/discussion/182303
 
 Notebook Framework: https://www.kaggle.com/xhlulu/openvaccine-simple-gru-model?scriptVersionId=43163749
 
