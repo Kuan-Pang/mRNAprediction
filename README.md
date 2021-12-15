@@ -27,9 +27,9 @@ Predict the reactivity and degradation probability for each base on the mRNA by 
     - Nucleotide type `AUCG`
     - Pairing state `(.)`
     - Loop type `ESHBXIM`
-  - Extracted Features from Base Pairing Probability (BBP) Matrix
-    - BBP sum
-    - BBP mean
+  - Extracted Features from Base Pairing Probability (BPP) Matrix
+    - BPP sum
+    - BPP mean
 - Output Summary (`BATCH_SIZE*SEQ_LEN*5`), the 5 labels are:
   - Reactivity
   - Degradation Probability at 50°C
@@ -44,8 +44,8 @@ Predict the reactivity and degradation probability for each base on the mRNA by 
 - Data argumentation
   - Revserve Sequence
 - Feature Extraction
-  - Calculate BBP sum for each residue
-  - Calculate BBP mean for each residue
+  - Calculate BPP sum for each residue
+  - Calculate BPP mean for each residue
 - Noise cancelling
 - One-hot Encoding(OHE) Mapping
   - Sequence
